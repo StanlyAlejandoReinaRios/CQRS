@@ -1,0 +1,14 @@
+C:\Users\Stanly\source\repos\MediatRCQRS.Library\bin\Debug\net6.0\MediatRCQRS.Library.deps.json
+C:\Users\Stanly\source\repos\MediatRCQRS.Library\bin\Debug\net6.0\MediatRCQRS.Library.runtimeconfig.json
+C:\Users\Stanly\source\repos\MediatRCQRS.Library\bin\Debug\net6.0\MediatRCQRS.Library.dll
+C:\Users\Stanly\source\repos\MediatRCQRS.Library\bin\Debug\net6.0\MediatRCQRS.Library.pdb
+C:\Users\Stanly\source\repos\MediatRCQRS.Library\obj\Debug\net6.0\MediatRCQRS.Library.csproj.AssemblyReference.cache
+C:\Users\Stanly\source\repos\MediatRCQRS.Library\obj\Debug\net6.0\MediatRCQRS.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stanly\source\repos\MediatRCQRS.Library\obj\Debug\net6.0\MediatRCQRS.Library.AssemblyInfoInputs.cache
+C:\Users\Stanly\source\repos\MediatRCQRS.Library\obj\Debug\net6.0\MediatRCQRS.Library.AssemblyInfo.cs
+C:\Users\Stanly\source\repos\MediatRCQRS.Library\obj\Debug\net6.0\MediatRCQRS.Library.csproj.CoreCompileInputs.cache
+C:\Users\Stanly\source\repos\MediatRCQRS.Library\obj\Debug\net6.0\MediatRCQRS.Library.dll
+C:\Users\Stanly\source\repos\MediatRCQRS.Library\obj\Debug\net6.0\refint\MediatRCQRS.Library.dll
+C:\Users\Stanly\source\repos\MediatRCQRS.Library\obj\Debug\net6.0\MediatRCQRS.Library.pdb
+C:\Users\Stanly\source\repos\MediatRCQRS.Library\obj\Debug\net6.0\MediatRCQRS.Library.genruntimeconfig.cache
+C:\Users\Stanly\source\repos\MediatRCQRS.Library\obj\Debug\net6.0\ref\MediatRCQRS.Library.dll
